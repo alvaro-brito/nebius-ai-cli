@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-green.svg)](https://nodejs.org/)
 
-[🚀 Instalação](#-instalação) • [✨ Recursos](#-recursos) • [📖 Guia de Uso](#-guia-de-uso) • [🔧 Configuração](#-configuração) • [🤝 Contribuição](#-contribuição)
+[🚀 Instalação](#-instalação) • [✨ Recursos](#-recursos) • [📖 Guia de Uso](#-guia-de-uso) • [🔧 Configuração](#-configuração)
 
 </div>
 
